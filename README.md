@@ -8,7 +8,7 @@ Find and Furnish is a system that will primarily connect users to multiple sourc
 
 ### Target Audience 
 
-The target audience are those who are living in temporary housing spaces such as apartmets and dorms who require afforable furniture pieces. Due to the lack of large and/or consistent income whilst in university or starting out w-schooling, many w graduate renters/dormers have a hard time visualizing the amount of space they will be occupying as well as may not know the space constraints when it comes to buying furniture, especially when living in cities such as NYC. Therefore, F&F will make it easier for anyone to find and compare afforable items for their home. With a system such as this, people coming into city/moving into their first apartments would save time and money. 
+The target audience are those who are living in temporary housing spaces such as apartmets and dorms who require afforable furniture pieces. Due to the lack of large and/or consistent income whilst in university or starting out post-schooling, many w graduate renters/dormers have a hard time visualizing the amount of space they will be occupying as well as may not know the space constraints when it comes to buying furniture, especially when living in cities such as NYC. Therefore, F&F will make it easier for anyone to find and compare afforable items for their home. With a system such as this, people coming into city/moving into their first apartments would save time and money. 
 
 ## Gameplan 
 

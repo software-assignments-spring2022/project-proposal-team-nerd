@@ -16,3 +16,6 @@ Upon loading Find and Furnish, users will be asked if they would like to design 
 
 While creating login and accounts would be helpful to the system, the time constraint does not ensure that the two main functionalities above will be complete. In the event that either functionalities above will need to pivot, the inclusion of login accounts can be discussed. 
 
+## Scope
+
+This project is neither too easy nor too difficult as the half of the group can work on the database functionality, utilizing APIs and backend networks such as Express, while the other half undertakes the display using React.js frameworks containing drag, drop, and click functions. Both aspects will ensure that the team remains challenged for the rest of the semester and obtain a fullstack experience. 
